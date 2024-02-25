@@ -1,0 +1,2 @@
+# array
+showing my code.
